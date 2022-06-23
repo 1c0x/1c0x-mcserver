@@ -1,22 +1,20 @@
-# Hello.
+# Hello friend.
+
+## Discord
+![Discord](https://img.shields.io/discord/988368398910119986?label=In%20chat&style=for-the-badge)
+
+[Join Discord](https://discord.gg/pauj2DCJXw)
 
 
+## Server
+IP: **0xforge.aternos.me**
 
+Whitelist mode: ✔
 
-```markdown
-Syntax highlighted code block
+Version: 1.18.2
 
-# Header 1
-## Header 2
-### Header 3
+Software: Paper
 
-- Bulleted
-- List
+Plugins: 5
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
 
