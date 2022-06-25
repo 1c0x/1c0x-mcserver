@@ -1,7 +1,5 @@
 # Hello friend.
 
-## Discord
-
 [![](https://img.shields.io/discord/988368398910119986?label=Join%20Discord&style=for-the-badge)](https://discord.gg/pauj2DCJXw)
 ## Server
 
